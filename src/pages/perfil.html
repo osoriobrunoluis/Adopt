@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/reset.css">
+    <link rel="stylesheet" href="../styles/globalStyle.css">
+    <link rel="stylesheet" href="../styles/perfil.css">
+    <link rel="stylesheet" href="../styles/modal-toast.css">
+    <script src="../scripts/perfil.js" type="module" defer></script>
+    <title>Perfil</title>
+</head>
+<body>
+    <header class="header">
+        <img src="../assets/img/Logo-KenziePets.png" alt="kenzie pets" class="header__logo">
+        <div class="header__buttons">
+            <button class="header__buttons--white">Home</button>
+            <button class="header__buttons--blue">Logout</button>
+        </div>
+    </header>
+    <main>
+        <hr>
+        <img class="fotoPerfil" alt="Foto de perfil">
+        <section class="container__dadosPessoais">
+            <p class="dadosPessoais--titulo">Dados pessoais</p>
+            <div class="dadosPessoais--informacao">
+                <p></p>
+                <p></p>
+            </div>
+            <div class="container__bts--dadosPessoais">
+                <button class="header__buttons--blue bt_atualizarDados">Atualizar informações</button>
+                <button class="bt_deletar">Deletar conta</button>
+            </div>
+        </section>
+        <div class="container__buttons">
+            <button class="bt_cadastraPet">Cadastrar novo pet</button>
+            <Select>
+                <option value="Todos">Selecione espécie</option>
+                <option value="Cachorro">Cachorro</option>
+                <option value="Gato">Gato</option>
+                <option value="Aves">Aves</option>
+                <option value="Repteis">Repteis</option>
+                <option value="Outros">Outros</option>
+            </Select>
+        </div>
+        <section class="container__ul">
+            <ul><h2>Nenhum pet encontrando.</h2></ul>
+        </section>
+    </main>
+    <dialog>
+        <div></div>
+        <img src="../assets/img/Vector-close.png" alt="Close modal">
+    </dialog>
+</body>
+<footer>KenziePets | Todos os Direitos Reservados</footer>
+</html>
