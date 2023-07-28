@@ -11,7 +11,7 @@
      
   <h2> Rodando o projeto </h2>
   
-  <p>⚙️ Fazer o git clone no repositório<a href="https://github.com/Kenzie-Academy-Brasil-Developers/kenzie-adopt"> ApiAdopt</a>
+  <p>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/ApiAdopt"> ApiAdopt</a>
   <p>⚙️ Abrir o terminal no computador e usar npm para rodar api localmente </p> 
   <p>⚙️ Abir esse <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-KenzieAdot/new/main?readme=1"> REPOSITÓRIO </a>
   <p>⚙️ Abrir o projeto com Vs-Code e rodar o Go Live </p>
