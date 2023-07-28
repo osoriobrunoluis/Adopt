@@ -13,7 +13,7 @@
   
   <p>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/ApiAdopt"> ApiAdopt</a>
   <p>⚙️ Abrir o terminal no computador e usar npm para rodar api localmente </p> 
-  <p>⚙️ Abir esse <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-KenzieAdot/new/main?readme=1"> REPOSITÓRIO </a>
+  <p>⚙️ Abir esse <a href="https://github.com/osoriobrunoluis/Projeto-Front-End-Adopt"> REPOSITÓRIO </a>
   <p>⚙️ Abrir o projeto com Vs-Code e rodar o Go Live </p>
   <p>⚙️ Na página register no campo Avatar, incluir uma imagem do seu avatar através de uma URL</p> 
   <p>⚙️ Na página perfil do usuário ao cadastrar novo pet no campo avatar incluir uma URL para imagem do pet</p> 
