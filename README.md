@@ -7,7 +7,7 @@
  <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img  align="center" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
           
 
-<p>Para acessar o link do projeto no Vercel  <a href="https://projeto-front-end-kenzie-adot-69kh0n3by-osoriobrunoluis.vercel.app/" target="blank">Clique aqui</a></p>
+<p>Para acessar o link do projeto no Vercel  <a href="https://projeto-front-end-kenzie-adot-69kh0n3by-osoriobrunoluis.vercel.app/" target="_blank">Clique aqui</a></p>
      
   <h2> Rodando o projeto </h2>
   
